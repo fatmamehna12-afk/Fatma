@@ -1,0 +1,143 @@
+{
+   
+
+  "authors": [
+    {
+      "name": "Brandon Sanderson",
+      "bio": "Brandon Sanderson is an American fantasy and science fiction author known for epic worlds, complex magic systems, and imaginative storytelling.",
+      "avatarUrl": "https://covers.openlibrary.org/a/olid/OL1394865A-M.jpg",
+      "createdAt": "2026-09-20T13:20:07.270Z",
+      "updatedAt": "2026-09-20T13:20:22.196Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Agatha Christie",
+      "bio": "Agatha Christie was an English writer famous for her mystery and detective novels, especially the Hercule Poirot and Miss Marple stories.",
+      "birthDate": "1890-09-15",
+      "birthPlace": "Torquay, Devon, England",
+      "deathDate": "1976-01-12",
+      "avatarUrl": "https://covers.openlibrary.org/a/olid/OL27695A-M.jpg",
+      "books": [
+        "The Murder of Roger Ackroyd",
+        "Murder on the Orient Express",
+        "And Then There Were None",
+        "Death on the Nile",
+        "The Mysterious Affair at Styles"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Andy Weir",
+      "bio": "Andy Weir is an American science fiction author best known for The Martian, Artemis, and Project Hail Mary.",
+      "birthDate": "1972-06-16",
+      "birthPlace": "Davis, California, USA",
+      "deathDate": null,
+      "avatarUrl": "https://covers.openlibrary.org/a/olid/OL7234434A-M.jpg",
+      "books": [
+        "The Martian",
+        "Artemis",
+        "Project Hail Mary"
+      ]
+    },
+    {
+      "id": "poqT0z3zpxg",
+      "name": "J.K. Rowling",
+      "bio": "J.K. Rowling is a British author best known as the creator of the Harry Potter fantasy series.",
+      "birthDate": "1965-07-31",
+      "birthPlace": "Yate, near Bristol, England",
+      "deathDate": null,
+      "avatarUrl": "https://covers.openlibrary.org/a/olid/OL23919A-M.jpg",
+      "books": [
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Goblet of Fire",
+        "Harry Potter and the Order of the Phoenix",
+        "Harry Potter and the Half-Blood Prince",
+        "Harry Potter and the Deathly Hallows"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "J.R.R. Tolkien",
+      "bio": "J.R.R. Tolkien was an English writer, poet, philologist, and academic best known for creating Middle-earth and writing The Hobbit and The Lord of the Rings.",
+      "birthDate": "1892-01-03",
+      "birthPlace": "Bloemfontein, Orange Free State, South Africa",
+      "deathDate": "1973-09-02",
+      "avatarUrl": "https://covers.openlibrary.org/a/olid/OL26320A-M.jpg",
+      "books": [
+        "The Hobbit",
+        "The Fellowship of the Ring",
+        "The Two Towers",
+        "The Return of the King",
+        "The Silmarillion"
+      ]
+    }
+  ],
+  "books": [
+    {
+      "title": "Mistborn",
+      "authorId": 1,
+      "year": 2006,
+      "tags": [
+        "fantasy",
+        "adventure"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765311788-L.jpg",
+      "description": "A fantasy adventure set in a world ruled by a powerful immortal emperor",
+      "createdAt": "2026-09-20T13:10:45.050Z",
+      "updatedAt": "2026-09-20T13:21:40.790Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Murder of Roger Ackroyd",
+      "authorId": "2",
+      "year": 1926,
+      "tags": [
+        "mystery",
+        "detective"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780007282548-L.jpg",
+      "description": "A classic Hercule Poirot mystery involving the murder of Roger Ackroyd and a house full of suspects."
+    },
+    {
+      "id": "3",
+      "title": "Project Hail Mary",
+      "authorId": "3",
+      "year": 2021,
+      "tags": [
+        "sci-fi",
+        "space"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg",
+      "description": "A science fiction adventure about an astronaut who wakes up alone on a desperate mission to save humanity."
+    },
+    {
+      "id": "4",
+      "title": "The Final Empire",
+      "authorId": "1",
+      "year": 2006,
+      "tags": [
+        "fantasy",
+        "magic"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780765360960-L.jpg",
+      "description": "The first novel in the Mistborn series, featuring a world ruled by a powerful immortal emperor."
+    },
+    {
+      "id": "B0Fp8Dua8eQ",
+      "title": "The Hobbit",
+      "authorId": "5",
+      "year": 1937,
+      "tags": [
+        "fantasy",
+        "adventure"
+      ],
+      "coverUrl": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "description": "A classic fantasy adventure following Bilbo Baggins on an unexpected journey with dwarves and a wizard."
+    }
+  ]
+ 
+}
